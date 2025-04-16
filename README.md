@@ -26,4 +26,4 @@ Este é um aplicativo mobile desenvolvido com **React Native** e **Expo**, volta
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/marcacaoDeConsultasMedicas.git
+   git clone https://github.com/DPertel/marcacaoDeConsultasMedicas.git
